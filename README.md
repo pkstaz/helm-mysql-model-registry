@@ -1,0 +1,1 @@
+# helm-mysql-model-registry
